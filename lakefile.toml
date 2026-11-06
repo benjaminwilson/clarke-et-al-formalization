@@ -1,0 +1,7 @@
+name = "OfflineMemory"
+version = "0.1.0"
+defaultTargets = ["OfflineMemory"]
+moreLeanArgs = ["-DwarningAsError=true"]
+
+[[lean_lib]]
+name = "OfflineMemory"
